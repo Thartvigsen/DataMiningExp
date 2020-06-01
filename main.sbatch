@@ -13,5 +13,4 @@
 ##SBATCH --mail-type=END
 ##SBATCH --mail-user=twhartvigsen@wpi.edu
 
-#python main.py --taskid=${SLURM_ARRAY_TASK_ID} #--num_gpu=1
-python run_models.py --taskid=${SLURM_ARRAY_TASK_ID} #--num_gpu=1
+python main.py --taskid=${SLURM_ARRAY_TASK_ID} #--num_gpu=1

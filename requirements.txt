@@ -3,7 +3,7 @@ kiwisolver==1.1.0
 kneed==0.3.1
 matplotlib==3.0.3
 nltk==3.4.1
-numpy==1.16.3
+numpy==1.22.0
 pandas==0.24.2
 Pillow==8.1.1
 pymetamap==0.1
